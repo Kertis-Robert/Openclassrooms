@@ -26,6 +26,7 @@ nav
     flex-direction: column;
     word-break: break-all;
     text-align: justify;
+    overflow: auto;
 }
 ul
 {
