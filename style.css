@@ -19,7 +19,7 @@ p
 }
 nav
 {
-    background-image: url(fond-jaune.jpg);
+    background-image: url(Image/fond-jaune.jpg);
     width: 30%;
     max-width: 400px;
     display: flex;
@@ -39,7 +39,7 @@ ul
 h3
 {
     text-align: center;
-    background-image: url(fond-gris.jpg);
+    background-image: url(Image/fond-gris.jpg);
     color: rgb(255, 202, 7);
     padding-bottom: 5px;
     padding-top: 5px;
@@ -121,7 +121,7 @@ h1
 }
 #under
 {
-    border-bottom: 2px solid rgb(255, 204, 7)
+    border-bottom: 2px solid rgb(255, 204, 7);
 }
 #color
 {
@@ -129,7 +129,7 @@ h1
 }
 #yellow
 {
-    color: rgb(255, 204, 7)
+    color: rgb(255, 204, 7);
 }
 #conteneur
 {
@@ -187,7 +187,7 @@ h1
     }
     #loisir
     {
-        padding: 10px
+        padding: 10px;
     }
     h1
     {
@@ -197,7 +197,7 @@ h1
     }
     p
     {
-        font-size: 17px
+        font-size: 17px;
     }
     #corps
     {
@@ -207,7 +207,7 @@ h1
     {
         max-width: unset;
         width: 100%;
-        background-image: url(mobile.jpg);
+        background-image: url(Image/mobile.jpg);
     }
      #conteneur
     {
